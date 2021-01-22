@@ -1,0 +1,39 @@
+{
+    "name": "One Dark",
+    "version": "2021.01.22.01",
+    "description": "https://github.com/Mehvix/chrome-one-dark",
+    "manifest_version": 2,
+    "theme": {
+        "images": {
+            "theme_frame": "images\/frame.png",
+            "theme_toolbar": "images\/toolbar.png",
+            "theme_tab_background": "images\/tab_background.png"
+        },
+        "colors": {
+            "frame": [40,44,52],
+            "frame_incognito": [40,44,52],
+            "frame_inactive": [40,44,52],
+            "frame_incognito_inactive": [40,44,52],
+            
+            "toolbar": [40,44,52],
+            "tab_text": [226,235,253],
+            "tab_background_text": [171,178,191],
+            "tab_background_text_incognito": [171,178,191],
+            "tab_background_text_inactive": [171,178,191],
+            "tab_background_text_incognito_inactive": [171,178,191],
+            
+            "bookmark_text": [241,243,244],
+            "ntp_background": [50,54,57],
+            "ntp_text": [255,255,255],
+            "omnibox_background": [32,33,36],
+            "omnibox_text": [255,255,255]
+        },
+        "tints": {
+            "buttons": [0.61,0.14,0.71]
+        },
+        "properties": {
+            "ntp_background_alignment": "bottom",
+            "ntp_background_repeat": "no-repeat"
+        }
+    }
+}
