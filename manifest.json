@@ -23,7 +23,7 @@
             "tab_background_text_incognito_inactive": [171,178,191],
             
             "bookmark_text": [241,243,244],
-            "ntp_background": [50,54,57],
+            "ntp_background": [40,44,52],
             "ntp_text": [255,255,255],
             "omnibox_background": [32,33,36],
             "omnibox_text": [255,255,255]
